@@ -14,7 +14,7 @@ Software Engineer • Data Engineer • AI Engineer
 
 🚀 Passionate about Scalable Software, Distributed Systems, AI & Cloud Infrastructure
 
-📍 Santa Clara, California
+📍 San Francisco, California
 
 🌱 Open to Software Engineering, Backend, Data Engineering & AI opportunities
 
