@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avantika Chapegadikar</h1>
 
 <h3 align="center">
-Software Engineer • Data Engineer • AI Engineer
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Engineer;AI+Engineer;Building+Scalable%2C+Cloud-Native+Systems" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -20,21 +20,33 @@ Software Engineer • Data Engineer • AI Engineer
 
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avantiikaa16&label=Profile%20Views&color=0077B5&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
 
+<a href="https://avantika-portfolio-five.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com/in/avantikachapegadikar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Avantiikaa16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:achapegadikar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1N0ZDjuJ3GbRCAq7zHDdN4E8qKg0hNRgA/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1qV0EekbkGTjr4c9qQUVAU8pCBbuckWOe/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
@@ -47,6 +59,10 @@ Software Engineer • Data Engineer • AI Engineer
 ---
 
 ## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,go,js,fastapi,flask,django,react,gcp,aws,azure,mysql,mongodb,docker,kubernetes,jenkins,gitlab,git,tensorflow,pytorch,linux,vscode&theme=dark" alt="Tech stack icons" />
+</p>
 
 | Category | Technologies |
 |-----------|--------------|
@@ -61,7 +77,29 @@ Software Engineer • Data Engineer • AI Engineer
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Avantiikaa16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avantiikaa16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Avantiikaa16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avantiikaa16&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
+
+### 🩺 [Patient Voice Bot](https://github.com/Avantiikaa16/patient-ai-voice-bot)
+Automated voice QA bot that calls a medical office AI agent and simulates realistic patient conversations to surface bugs, using **Twilio**, **FastAPI**, **Deepgram**, and **Groq (Llama 3.3 70B)**.
+
+---
 
 ### 🌟 [Skill Bridge Career Navigator](https://github.com/Avantiikaa16/skill-bridge-career-navigator)
 AI-powered career guidance platform that analyzes user skills, identifies skill gaps, and recommends personalized learning paths using **FastAPI**, **React**, **MySQL**, and the **Gemini API**.
@@ -86,22 +124,7 @@ Intelligent Connect-4 game implementing **Minimax**, **Alpha-Beta Pruning**, heu
 ### 📊 [Lean In Circle Impact Dashboard](https://github.com/Avantiikaa16/leanin-circle-impact-dashboard)
 Interactive analytics dashboard built with **Python**, **Streamlit**, **Pandas**, and **Plotly** to visualize engagement, retention, leadership growth, and community health metrics.
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avantiikaa16&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avantiikaa16&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Avantiikaa16&theme=github-dark&hide_border=true"/>
-
-</p>
+---
 
 ## 📫 Let's Connect!
 
