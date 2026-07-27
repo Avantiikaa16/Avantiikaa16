@@ -83,6 +83,11 @@
 
 ## 🚀 Featured Projects
 
+### 🔍 [TruthLens AI](https://github.com/Avantiikaa16/truthlens-ai) · [Live Demo](https://avantika-truthlens-ai.vercel.app)
+Full-stack fact investigation platform that verifies claims using live web research, official-source detection, explainable confidence scoring, and source-independence analysis, using **React 19**, **TypeScript**, **FastAPI**, **PostgreSQL (Neon)**, and the **You.com Research API**. Built for the You.com Agentic AI Hackathon 2026, since extended into a persisted, authenticated, production app.
+
+---
+
 ### 🩺 [Patient Voice Bot](https://github.com/Avantiikaa16/patient-ai-voice-bot)
 Automated voice QA bot that calls a medical office AI agent and simulates realistic patient conversations to surface bugs, using **Twilio**, **FastAPI**, **Deepgram**, and **Groq (Llama 3.3 70B)**.
 
