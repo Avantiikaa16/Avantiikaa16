@@ -98,11 +98,6 @@ AI-powered career guidance platform that analyzes user skills, identifies skill 
 
 ---
 
-### 🎓 [University Program Evaluation System](https://github.com/Avantiikaa16/university-program-evaluation-system-v2)
-Full-stack academic evaluation platform built with **React**, **Flask**, and **MySQL**, enabling efficient program assessment through a normalized database and interactive dashboards.
-
----
-
 ### 💳 [Idempotent Payment System](https://github.com/Avantiikaa16/idempotent-payment-system)
 Backend payment processing service demonstrating **FastAPI**, **REST APIs**, and **Idempotency Keys** to ensure reliable and duplicate-safe transaction handling.
 
