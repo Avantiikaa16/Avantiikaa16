@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1qV0EekbkGTjr4c9qQUVAU8pCBbuckWOe/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1jJ20eKaz2W2QHLRxRbDI-KzZOddaHYcv/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
@@ -76,12 +76,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Avantiikaa16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Avantiikaa16">
+    <img
+      src="https://streak-stats.demolab.com?user=Avantiikaa16&theme=tokyonight"
+      alt="Avantika's GitHub streak"
+    />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
+### ⚖️ [AgentCourt Precedent](https://github.com/Avantiikaa16/agentcourt-precedent) · [Live Demo](https://agentcourt-precedent.vercel.app)
+AI-agent governance platform that puts risky actions through adversarial review by Prosecutor, Defense, and Judge agents, then enforces deterministic safeguards and human approval before execution. Built using **Next.js**, **TypeScript**, **FalkorDB**, **Guild.ai**, **RocketRide**, and **LaserData**, with approved outcomes recorded as precedents that inform future decisions without granting permanent permission.
+
+--
 
 ### 🔍 [TruthLens AI](https://github.com/Avantiikaa16/truthlens-ai) · [Live Demo](https://avantika-truthlens-ai.vercel.app)
 Full-stack fact investigation platform that verifies claims using live web research, official-source detection, explainable confidence scoring, and source-independence analysis, using **React 19**, **TypeScript**, **FastAPI**, **PostgreSQL (Neon)**, and the **You.com Research API**. Built for the You.com Agentic AI Hackathon 2026, since extended into a persisted, authenticated, production app.
