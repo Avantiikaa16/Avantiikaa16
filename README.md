@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avantika Chapegadikar</h1>
+<h1 align="center">Hi👋, I'm Avantika Chapegadikar</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Engineer;Data+Engineer;AI+Engineer;Building+Scalable%2C+Cloud-Native+Systems" alt="Software Engineer, Backend Engineer, Data Engineer, and AI Engineer" />
