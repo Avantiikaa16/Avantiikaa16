@@ -68,7 +68,7 @@ Fact-checks claims and returns sourced verdicts in under 10 seconds.<br/>
 **📊 [Lean In Circle Impact Dashboard](https://github.com/Avantiikaa16/leanin-circle-impact-dashboard)**: Analytics on engagement, retention, and community health.<br/>
 `Python` `Streamlit` `Pandas` `Plotly`
 
-**🎓 [University Program Evaluation System](https://github.com/Avantiikaa16/university-program-evaluation-system-v2)**: Full-stack program-evaluation analytics and reporting.<br/>
+**📋 [University Program Evaluation System](https://github.com/Avantiikaa16/university-program-evaluation-system-v2)**: Full-stack program-evaluation analytics and reporting.<br/>
 `React` `Python` `SQL`
 
 **🤖 [Connect-4 AI](https://github.com/Avantiikaa16/connect4-ai-adversarial-search)**: Minimax agent with Alpha-Beta pruning. 🥈 2nd place in a Connect-4 AI competition.<br/>
