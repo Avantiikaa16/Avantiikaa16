@@ -38,6 +38,7 @@
 | 🤖 AI/ML | LLMs • Multi-Agent Systems • RAG • PyTorch • Hugging Face • OpenAI • Gemini |
 | ☁️ Cloud & DevOps | AWS • GCP • Azure • Docker • Kubernetes • Terraform • CI/CD |
 | 🗄️ Data | PostgreSQL • MySQL • MongoDB • BigQuery • Apache Airflow |
+| 🔐 Networking & Security | TCP/IP • DNS • HTTP/HTTPS • Routing & Switching • AWS VPC & Subnets • IAM • OAuth • JWT |
 
 ## 🏆 Hackathon Projects
 
