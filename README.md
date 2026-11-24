@@ -8,7 +8,8 @@
   💼 Software Engineer: 2 years full-stack + 1 year data engineering<br/>
   🎓 M.S. in Computer Science (AI & ML), Southern Methodist University<br/>
   ⚙️ Backend systems, REST APIs, cloud infrastructure, data pipelines, and AI apps<br/>
-  📍 Santa Clara, CA · 🌱 Open to full-time roles and relocation
+  📍 San Francisco, CA<br/>
+  🌱 Open to full-time roles and relocation
 </p>
 
 <p align="center">
